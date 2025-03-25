@@ -1,6 +1,7 @@
 # Serenity - AI Powered Mental Health Assessment & Tracking
 ### YouTube Link: https://youtu.be/9AKtvtt0qPQ
 
+![Landing Page](./images/homepage.png)
 
 
 
