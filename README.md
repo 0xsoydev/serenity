@@ -1,4 +1,11 @@
 # Serenity - AI Powered Mental Health Assessment & Tracking
+
+Serenity is an innovative mental health platform that combines AI-driven self-assessment with live therapist support and community features. Designed for a hackathon setting, Serenity leverages cutting-edge technology to make mental health care more accessible, personalized, and engaging.
+
+## Overview
+
+Our platform redefines mental health evaluations by moving away from static questionnaires and embracing a fully dynamic, machine learning–powered approach. By analyzing user responses in real time, our ML engine adapts the assessment process, providing nuanced insights and personalized recommendations. This innovation is complemented by an intelligent chatbot, interactive dashboard, secure WebRTC doctor portal, and a thriving community space, creating a holistic ecosystem for mental health support.
+
 ### YouTube Link: https://youtu.be/9AKtvtt0qPQ
 
 ![Landing Page](./images/homepage.png)
@@ -11,39 +18,59 @@
 ![Doctor Dashboard 1](./images/doctor_dashboard_1.jpeg)
 ![Doctor Dashboard 2](./images/doctor_dashboard_2.jpeg)
 
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+## Key Features
 
-## Getting Started
+- **Interactive AI Therapy:**  
+  Adaptive MCQ-based questioning for personalized symptom insights.
 
-First, run the development server:
+- **One-on-One Teletherapy:**  
+  Real-time video consultations via WebRTC.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+- **Community Engagement:**  
+  Connect with peers in a supportive environment.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+- **Mental Health Journaling:**  
+  Secure note-taking for self-reflection and progress tracking.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+- **Personalized Dashboards:**  
+  Visual health tracking for users and doctors.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+- **Curated Health Resources:**  
+  Trusted NHS articles and up-to-date mental health info.
 
-## Learn More
+<!-- This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app). -->
 
-To learn more about Next.js, take a look at the following resources:
+<!-- ## Getting Started -->
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+<!-- First, run the development server: -->
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+<!-- ```bash -->
+<!-- npm run dev -->
+<!-- # or -->
+<!-- yarn dev -->
+<!-- # or -->
+<!-- pnpm dev -->
+<!-- # or -->
+<!-- bun dev -->
+<!-- ``` -->
 
-## Deploy on Vercel
+<!-- Open [http://localhost:3000](http://localhost:3000) with your browser to see the result. -->
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+<!-- You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file. -->
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+<!-- This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel. -->
+
+<!-- ## Learn More -->
+
+<!-- To learn more about Next.js, take a look at the following resources: -->
+
+<!-- - [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API. -->
+<!-- - [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial. -->
+
+<!-- You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome! -->
+
+<!-- ## Deploy on Vercel -->
+
+<!-- The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js. -->
+
+<!-- Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details. -->
