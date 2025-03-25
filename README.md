@@ -2,9 +2,10 @@
 ### YouTube Link: https://youtu.be/9AKtvtt0qPQ
 
 ![Landing Page](./images/homepage.png)
-
-
-
+![AI Assessment](./images/ai_assessment.png)
+![Health Dashboard](./images/dashboard.jpeg)
+![AI Chatbot & Community](./images/chatbot_community.png)
+![Articles & Journaling](./images/articles_journaling.png)
 
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
